@@ -1,0 +1,13 @@
+E:\учебная херобрань\програмки\Hill\Hill\bin\Debug\netcoreapp3.1\Hill.exe
+E:\учебная херобрань\програмки\Hill\Hill\bin\Debug\netcoreapp3.1\Hill.deps.json
+E:\учебная херобрань\програмки\Hill\Hill\bin\Debug\netcoreapp3.1\Hill.runtimeconfig.json
+E:\учебная херобрань\програмки\Hill\Hill\bin\Debug\netcoreapp3.1\Hill.runtimeconfig.dev.json
+E:\учебная херобрань\програмки\Hill\Hill\bin\Debug\netcoreapp3.1\Hill.dll
+E:\учебная херобрань\програмки\Hill\Hill\bin\Debug\netcoreapp3.1\Hill.pdb
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.csprojAssemblyReference.cache
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.AssemblyInfoInputs.cache
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.AssemblyInfo.cs
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.csproj.CoreCompileInputs.cache
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.dll
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.pdb
+E:\учебная херобрань\програмки\Hill\Hill\obj\Debug\netcoreapp3.1\Hill.genruntimeconfig.cache
